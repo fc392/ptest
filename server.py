@@ -177,7 +177,7 @@ if __name__ == "__main__":
     # users = db.users
     """  APPID AK SK """
     APP_ID = '11765015'
-    API_KEY = 'aX3L3UzaL2GTxBHDyCZD4rG6'
+    API_KEY = 'aX3L3UzaL2GTxBHDyCZD4rG6S'
     SECRET_KEY = 'kjISzZhXMeLOgnEYB62vdO4gzKvAOgH7'
 
     client = AipOcr(APP_ID, API_KEY, SECRET_KEY)
